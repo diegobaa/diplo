@@ -1,0 +1,40 @@
+/*
+font-family: "Dancing Script", cursive;
+font-family: "Roboto", sans-serif;
+*/
+
+
+.caja {
+    /*background-color: yellow;*/
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 50px;
+    background: rgb(23, 62, 168);
+    background: linear-gradient(90deg, rgba(23, 62, 168, 1) 2%, rgba(0, 212, 255, 1) 47%);
+    border-radius: 20px;
+    border-radius: 20px 40px 60px 80px;
+    box-shadow: 20px 30px 5px black;
+    border:2px solid white;
+
+
+}
+
+.texto {
+    background-color: orange;
+    width: 900px;
+    column-count: 4;
+}
+
+.texto p {
+    margin:0;
+}
+h2{
+    font-family: "Dancing Script", cursive;
+}
+.destacados{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: red;
+}
