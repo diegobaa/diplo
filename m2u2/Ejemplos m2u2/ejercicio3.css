@@ -1,0 +1,55 @@
+.contenedor {
+	background-color: white;
+	border: 1px solid black;
+	border-width: 2px;
+	display: inline-flex;
+	flex-direction: row;
+	width: 100%;
+	/*flex-direction: row-reverse; */
+	/*flex-direction: column;*/
+	/*flex-direction: column-reverse;*/
+
+}
+
+
+
+.rojo {
+	position: relative;
+	top: 0%;
+	left: -12.4%;
+	margin: 0 auto;
+	height: 130px;
+
+	width: 130px;
+	border: 1px solid red;
+	background-color: red;
+}
+
+.azul {
+	position: relative;
+	top: 0px;
+	left: 0%;
+	margin: 0 auto;
+	height: 130px;
+	width: 130px;
+	border: 1px solid blue;
+	background-color: blue;
+}
+
+.verde {
+	position: relative;
+	top: 0px;
+	left: 12.4%;
+	margin: 0 auto;
+	height: 130px;
+	width: 130px;
+	border: 1px solid green;
+
+	background-color: green;
+}
+
+p {
+	margin-top: 40%;
+	text-align: center;
+	color: white;
+}

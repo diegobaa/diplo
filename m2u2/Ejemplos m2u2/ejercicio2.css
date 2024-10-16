@@ -1,0 +1,48 @@
+#contenedor {
+	border: 1px solid #aaa;
+	border-width: 2px;
+	background-color: white;
+	margin: 0 auto;
+	width: 50%;
+	height: 500px;
+}
+
+#rojo {
+	position: relative;
+	top: 33.3%;
+	left: 33.3%;
+	margin: 0 auto;
+	height: 33%;
+	width: 33.3%;
+	border: 1px solid red;
+	background-color: red;
+}
+
+#azul {
+	position: relative;
+	top: 0px;
+	left: 0%;
+	margin: 0 auto;
+	height: 33%;
+	width: 33.3%;
+	border: 1px solid blue;
+	background-color: blue;
+}
+
+#verde {
+	position: relative;
+	top: -33.3%;
+	left: -33.3%;
+	margin: 0 auto;
+	height: 33%;
+	width: 33.3%;
+	border: 1px solid green;
+
+	background-color: green;
+}
+
+p {
+	margin-top: 24%;
+	text-align: center;
+	color: white;
+}
